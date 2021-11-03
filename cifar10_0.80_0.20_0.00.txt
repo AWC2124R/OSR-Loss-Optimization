@@ -1,0 +1,507 @@
+ce_coef :0.80
+cen_coef :0.20
+trp_coef :0.00
+
+dataset :cifar10 , split: 0 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 90.670 | Acc: 36.123% (10837/30000) 
+Test result 
+Loss: 93.473 | Acc: 28.950% (1737/6000) 
+AUROC : 0.53 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 83.034 | Acc: 50.463% (15139/30000) 
+Test result 
+Loss: 86.399 | Acc: 42.933% (2576/6000) 
+AUROC : 0.61 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 76.713 | Acc: 62.100% (18630/30000) 
+Test result 
+Loss: 86.914 | Acc: 53.633% (3218/6000) 
+AUROC : 0.53 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 72.247 | Acc: 69.497% (20849/30000) 
+Test result 
+Loss: 77.128 | Acc: 58.350% (3501/6000) 
+AUROC : 0.60 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 69.966 | Acc: 72.593% (21778/30000) 
+Test result 
+Loss: 72.108 | Acc: 61.900% (3714/6000) 
+AUROC : 0.57 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 67.854 | Acc: 76.453% (22936/30000) 
+Test result 
+Loss: 68.478 | Acc: 74.900% (4494/6000) 
+AUROC : 0.65 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 66.383 | Acc: 78.737% (23621/30000) 
+Test result 
+Loss: 79.570 | Acc: 71.217% (4273/6000) 
+AUROC : 0.58 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 65.129 | Acc: 80.900% (24270/30000) 
+Test result 
+Loss: 80.000 | Acc: 58.217% (3493/6000) 
+AUROC : 0.55 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 64.593 | Acc: 81.713% (24514/30000) 
+Test result 
+Loss: 64.715 | Acc: 82.800% (4968/6000) 
+AUROC : 0.75 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 63.849 | Acc: 82.933% (24880/30000) 
+Test result 
+Loss: 65.624 | Acc: 80.433% (4826/6000) 
+AUROC : 0.62 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 65.216 | Acc: 82.233% (24670/30000) 
+Test result 
+Loss: 66.656 | Acc: 84.533% (5072/6000) 
+AUROC : 0.64 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 62.418 | Acc: 86.320% (25896/30000) 
+Test result 
+Loss: 77.165 | Acc: 65.383% (3923/6000) 
+AUROC : 0.28 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 61.871 | Acc: 87.083% (26125/30000) 
+Test result 
+Loss: 62.609 | Acc: 86.083% (5165/6000) 
+AUROC : 0.60 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 61.548 | Acc: 87.580% (26274/30000) 
+Test result 
+Loss: 63.731 | Acc: 84.933% (5096/6000) 
+AUROC : 0.74 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 61.142 | Acc: 87.993% (26398/30000) 
+Test result 
+Loss: 61.285 | Acc: 88.833% (5330/6000) 
+AUROC : 0.66 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 60.754 | Acc: 88.503% (26551/30000) 
+Test result 
+Loss: 62.561 | Acc: 86.550% (5193/6000) 
+AUROC : 0.65 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 60.889 | Acc: 88.010% (26403/30000) 
+Test result 
+Loss: 64.448 | Acc: 82.283% (4937/6000) 
+AUROC : 0.53 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 60.613 | Acc: 88.807% (26642/30000) 
+Test result 
+Loss: 62.154 | Acc: 87.733% (5264/6000) 
+AUROC : 0.76 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 60.428 | Acc: 88.777% (26633/30000) 
+Test result 
+Loss: 60.827 | Acc: 89.233% (5354/6000) 
+AUROC : 0.64 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 60.423 | Acc: 88.613% (26584/30000) 
+Test result 
+Loss: 64.963 | Acc: 80.133% (4808/6000) 
+AUROC : 0.44 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 70.981 | Acc: 71.747% (21524/30000) 
+Test result 
+Loss: 69.584 | Acc: 75.400% (4524/6000) 
+AUROC : 0.70 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 67.717 | Acc: 77.800% (23340/30000) 
+Test result 
+Loss: 73.307 | Acc: 76.050% (4563/6000) 
+AUROC : 0.64 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 66.924 | Acc: 79.693% (23908/30000) 
+Test result 
+Loss: 70.905 | Acc: 78.417% (4705/6000) 
+AUROC : 0.70 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 66.266 | Acc: 80.800% (24240/30000) 
+Test result 
+Loss: 70.878 | Acc: 74.817% (4489/6000) 
+AUROC : 0.68 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 66.359 | Acc: 80.290% (24087/30000) 
+Test result 
+Loss: 70.655 | Acc: 69.333% (4160/6000) 
+AUROC : 0.64 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 65.790 | Acc: 81.257% (24377/30000) 
+Test result 
+Loss: 67.463 | Acc: 80.667% (4840/6000) 
+AUROC : 0.57 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 65.575 | Acc: 81.627% (24488/30000) 
+Test result 
+Loss: 70.302 | Acc: 70.633% (4238/6000) 
+AUROC : 0.64 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 65.570 | Acc: 81.677% (24503/30000) 
+Test result 
+Loss: 69.283 | Acc: 70.400% (4224/6000) 
+AUROC : 0.51 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 65.450 | Acc: 81.960% (24588/30000) 
+Test result 
+Loss: 67.403 | Acc: 81.550% (4893/6000) 
+AUROC : 0.75 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 65.232 | Acc: 82.470% (24741/30000) 
+Test result 
+Loss: 66.183 | Acc: 80.833% (4850/6000) 
+AUROC : 0.74 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 66.767 | Acc: 83.470% (25041/30000) 
+Test result 
+Loss: 66.118 | Acc: 86.183% (5171/6000) 
+AUROC : 0.63 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 64.389 | Acc: 87.530% (26259/30000) 
+Test result 
+Loss: 67.459 | Acc: 84.150% (5049/6000) 
+AUROC : 0.62 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 64.059 | Acc: 88.027% (26408/30000) 
+Test result 
+Loss: 66.772 | Acc: 80.783% (4847/6000) 
+AUROC : 0.63 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 63.793 | Acc: 87.963% (26389/30000) 
+Test result 
+Loss: 66.718 | Acc: 80.933% (4856/6000) 
+AUROC : 0.67 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 63.628 | Acc: 87.973% (26392/30000) 
+Test result 
+Loss: 68.896 | Acc: 79.950% (4797/6000) 
+AUROC : 0.69 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 63.402 | Acc: 88.613% (26584/30000) 
+Test result 
+Loss: 67.873 | Acc: 78.567% (4714/6000) 
+AUROC : 0.63 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 63.379 | Acc: 88.460% (26538/30000) 
+Test result 
+Loss: 65.994 | Acc: 86.733% (5204/6000) 
+AUROC : 0.69 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 63.205 | Acc: 88.523% (26557/30000) 
+Test result 
+Loss: 65.333 | Acc: 82.950% (4977/6000) 
+AUROC : 0.50 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 63.152 | Acc: 88.920% (26676/30000) 
+Test result 
+Loss: 63.584 | Acc: 88.150% (5289/6000) 
+AUROC : 0.64 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 63.028 | Acc: 89.307% (26792/30000) 
+Test result 
+Loss: 65.032 | Acc: 73.217% (4393/6000) 
+AUROC : 0.65 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 63.998 | Acc: 88.053% (26416/30000) 
+Test result 
+Loss: 64.491 | Acc: 87.883% (5273/6000) 
+AUROC : 0.73 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 63.233 | Acc: 89.170% (26751/30000) 
+Test result 
+Loss: 71.326 | Acc: 78.500% (4710/6000) 
+AUROC : 0.68 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 63.200 | Acc: 89.067% (26720/30000) 
+Test result 
+Loss: 63.934 | Acc: 87.283% (5237/6000) 
+AUROC : 0.74 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 63.070 | Acc: 89.307% (26792/30000) 
+Test result 
+Loss: 64.109 | Acc: 87.633% (5258/6000) 
+AUROC : 0.75 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 63.032 | Acc: 89.047% (26714/30000) 
+Test result 
+Loss: 64.723 | Acc: 84.567% (5074/6000) 
+AUROC : 0.69 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 62.989 | Acc: 89.397% (26819/30000) 
+Test result 
+Loss: 63.741 | Acc: 88.783% (5327/6000) 
+AUROC : 0.79 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 62.876 | Acc: 89.120% (26736/30000) 
+Test result 
+Loss: 67.417 | Acc: 86.200% (5172/6000) 
+AUROC : 0.75 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 62.958 | Acc: 89.170% (26751/30000) 
+Test result 
+Loss: 73.186 | Acc: 76.100% (4566/6000) 
+AUROC : 0.61 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 62.782 | Acc: 89.480% (26844/30000) 
+Test result 
+Loss: 63.720 | Acc: 89.817% (5389/6000) 
+AUROC : 0.67 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 62.898 | Acc: 89.217% (26765/30000) 
+Test result 
+Loss: 69.525 | Acc: 77.933% (4676/6000) 
+AUROC : 0.62 
+
+AUROC list : [0.6243115  0.44065358 0.73868133 0.65124148 0.62311979]
+split mean AUROC :0.62
+
