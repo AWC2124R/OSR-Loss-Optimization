@@ -24,9 +24,9 @@ This project is licensed under the terms of the MIT License.
 
 The OSR-Loss-Optimization research is a collaborative effort between a Seoul Science High School (SSHS) research group and a Sungkyunkwan University supervisor.
 
-Taehoon Hwang, SSHS Student,
-Yeongjun Kim, SSHS Student,
-Jinsu Park, SSHS Student,
+Taehoon Hwang, SSHS Student,  
+Yeongjun Kim, SSHS Student,  
+Jinsu Park, SSHS Student,  
 
 Prof. Heo Jaepil, Sungkyunkwan University
 
