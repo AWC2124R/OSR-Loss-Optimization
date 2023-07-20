@@ -1,0 +1,507 @@
+ce_coef :0.90
+cen_coef :0.00
+trp_coef :0.10
+
+dataset :svhn , split: 0 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: nan , cls_loss: nan , rot_loss: 0.603 | Acc: 30.695% (14459/47106) 
+Test result 
+Loss: 1.683 | Acc: 34.036% (5830/17129) 
+AUROC : 0.61 
+
+dataset :svhn , split: 0 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: nan , cls_loss: nan , rot_loss: 0.448 | Acc: 72.806% (34296/47106) 
+Test result 
+Loss: 0.392 | Acc: 85.492% (14644/17129) 
+AUROC : 0.74 
+
+dataset :svhn , split: 0 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: nan , cls_loss: nan , rot_loss: 0.400 | Acc: 89.173% (42006/47106) 
+Test result 
+Loss: 0.228 | Acc: 91.617% (15693/17129) 
+AUROC : 0.87 
+
+dataset :svhn , split: 0 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: nan , cls_loss: nan , rot_loss: 0.381 | Acc: 90.974% (42854/47106) 
+Test result 
+Loss: 0.377 | Acc: 86.911% (14887/17129) 
+AUROC : 0.85 
+
+dataset :svhn , split: 0 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: nan , cls_loss: nan , rot_loss: 0.373 | Acc: 91.409% (43059/47106) 
+Test result 
+Loss: 0.483 | Acc: 82.579% (14145/17129) 
+AUROC : 0.82 
+
+dataset :svhn , split: 0 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: nan , cls_loss: nan , rot_loss: 0.367 | Acc: 91.557% (43129/47106) 
+Test result 
+Loss: 0.314 | Acc: 89.421% (15317/17129) 
+AUROC : 0.89 
+
+dataset :svhn , split: 0 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: nan , cls_loss: nan , rot_loss: 0.360 | Acc: 92.139% (43403/47106) 
+Test result 
+Loss: 1.182 | Acc: 65.754% (11263/17129) 
+AUROC : 0.60 
+
+dataset :svhn , split: 0 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: nan , cls_loss: nan , rot_loss: 0.363 | Acc: 91.593% (43146/47106) 
+Test result 
+Loss: 0.585 | Acc: 82.165% (14074/17129) 
+AUROC : 0.83 
+
+dataset :svhn , split: 0 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: nan , cls_loss: nan , rot_loss: 0.356 | Acc: 92.056% (43364/47106) 
+Test result 
+Loss: 0.229 | Acc: 92.235% (15799/17129) 
+AUROC : 0.93 
+
+dataset :svhn , split: 0 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: nan , cls_loss: nan , rot_loss: 0.349 | Acc: 92.534% (43589/47106) 
+Test result 
+Loss: 0.192 | Acc: 93.566% (16027/17129) 
+AUROC : 0.91 
+
+dataset :svhn , split: 1 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 0.736 , cls_loss: 0.357 , rot_loss: 0.380 | Acc: 86.462% (36041/41684) 
+Test result 
+Loss: 0.416 | Acc: 84.530% (12507/14796) 
+AUROC : 0.87 
+
+dataset :svhn , split: 1 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 0.610 , cls_loss: 0.262 , rot_loss: 0.348 | Acc: 90.438% (37698/41684) 
+Test result 
+Loss: 0.365 | Acc: 86.882% (12855/14796) 
+AUROC : 0.86 
+
+dataset :svhn , split: 1 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 0.586 , cls_loss: 0.246 , rot_loss: 0.340 | Acc: 90.987% (37927/41684) 
+Test result 
+Loss: 0.332 | Acc: 88.220% (13053/14796) 
+AUROC : 0.90 
+
+dataset :svhn , split: 1 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 0.575 , cls_loss: 0.240 , rot_loss: 0.335 | Acc: 91.215% (38022/41684) 
+Test result 
+Loss: 0.235 | Acc: 91.748% (13575/14796) 
+AUROC : 0.91 
+
+dataset :svhn , split: 1 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 0.562 , cls_loss: 0.230 , rot_loss: 0.332 | Acc: 91.611% (38187/41684) 
+Test result 
+Loss: 0.206 | Acc: 92.991% (13759/14796) 
+AUROC : 0.92 
+
+dataset :svhn , split: 1 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 0.562 , cls_loss: 0.231 , rot_loss: 0.330 | Acc: 91.618% (38190/41684) 
+Test result 
+Loss: 0.457 | Acc: 84.976% (12573/14796) 
+AUROC : 0.85 
+
+dataset :svhn , split: 1 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 0.554 , cls_loss: 0.225 , rot_loss: 0.329 | Acc: 91.788% (38261/41684) 
+Test result 
+Loss: 0.335 | Acc: 87.740% (12982/14796) 
+AUROC : 0.89 
+
+dataset :svhn , split: 1 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 0.552 , cls_loss: 0.225 , rot_loss: 0.327 | Acc: 91.896% (38306/41684) 
+Test result 
+Loss: 0.281 | Acc: 90.193% (13345/14796) 
+AUROC : 0.88 
+
+dataset :svhn , split: 1 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 0.545 , cls_loss: 0.219 , rot_loss: 0.326 | Acc: 91.997% (38348/41684) 
+Test result 
+Loss: 0.284 | Acc: 89.903% (13302/14796) 
+AUROC : 0.89 
+
+dataset :svhn , split: 1 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 0.550 , cls_loss: 0.224 , rot_loss: 0.326 | Acc: 91.995% (38347/41684) 
+Test result 
+Loss: 0.255 | Acc: 90.856% (13443/14796) 
+AUROC : 0.90 
+
+dataset :svhn , split: 2 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 0.661 , cls_loss: 0.281 , rot_loss: 0.380 | Acc: 90.234% (42593/47203) 
+Test result 
+Loss: 0.266 | Acc: 90.337% (15398/17045) 
+AUROC : 0.89 
+
+dataset :svhn , split: 2 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 0.566 , cls_loss: 0.218 , rot_loss: 0.348 | Acc: 92.494% (43660/47203) 
+Test result 
+Loss: 0.258 | Acc: 91.370% (15574/17045) 
+AUROC : 0.91 
+
+dataset :svhn , split: 2 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 0.549 , cls_loss: 0.209 , rot_loss: 0.340 | Acc: 92.806% (43807/47203) 
+Test result 
+Loss: 0.156 | Acc: 94.550% (16116/17045) 
+AUROC : 0.93 
+
+dataset :svhn , split: 2 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 0.543 , cls_loss: 0.205 , rot_loss: 0.338 | Acc: 92.958% (43879/47203) 
+Test result 
+Loss: 0.229 | Acc: 91.704% (15631/17045) 
+AUROC : 0.85 
+
+dataset :svhn , split: 2 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 0.533 , cls_loss: 0.198 , rot_loss: 0.334 | Acc: 93.104% (43948/47203) 
+Test result 
+Loss: 0.187 | Acc: 93.259% (15896/17045) 
+AUROC : 0.89 
+
+dataset :svhn , split: 2 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 0.530 , cls_loss: 0.197 , rot_loss: 0.333 | Acc: 93.181% (43984/47203) 
+Test result 
+Loss: 0.218 | Acc: 92.009% (15683/17045) 
+AUROC : 0.90 
+
+dataset :svhn , split: 2 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 0.527 , cls_loss: 0.196 , rot_loss: 0.330 | Acc: 93.125% (43958/47203) 
+Test result 
+Loss: 0.204 | Acc: 92.889% (15833/17045) 
+AUROC : 0.91 
+
+dataset :svhn , split: 2 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 0.527 , cls_loss: 0.196 , rot_loss: 0.331 | Acc: 93.269% (44026/47203) 
+Test result 
+Loss: 0.165 | Acc: 94.233% (16062/17045) 
+AUROC : 0.94 
+
+dataset :svhn , split: 2 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 0.523 , cls_loss: 0.193 , rot_loss: 0.330 | Acc: 93.327% (44053/47203) 
+Test result 
+Loss: 0.247 | Acc: 91.599% (15613/17045) 
+AUROC : 0.89 
+
+dataset :svhn , split: 2 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 0.518 , cls_loss: 0.190 , rot_loss: 0.328 | Acc: 93.524% (44146/47203) 
+Test result 
+Loss: 0.159 | Acc: 94.450% (16099/17045) 
+AUROC : 0.93 
+
+dataset :svhn , split: 3 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 0.666 , cls_loss: 0.324 , rot_loss: 0.342 | Acc: 87.699% (37124/42331) 
+Test result 
+Loss: 0.348 | Acc: 87.818% (13235/15071) 
+AUROC : 0.88 
+
+dataset :svhn , split: 3 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 0.565 , cls_loss: 0.247 , rot_loss: 0.318 | Acc: 90.981% (38513/42331) 
+Test result 
+Loss: 0.200 | Acc: 92.708% (13972/15071) 
+AUROC : 0.92 
+
+dataset :svhn , split: 3 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 0.551 , cls_loss: 0.237 , rot_loss: 0.314 | Acc: 91.330% (38661/42331) 
+Test result 
+Loss: 0.342 | Acc: 87.751% (13225/15071) 
+AUROC : 0.84 
+
+dataset :svhn , split: 3 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 0.548 , cls_loss: 0.236 , rot_loss: 0.312 | Acc: 91.507% (38736/42331) 
+Test result 
+Loss: 0.210 | Acc: 92.681% (13968/15071) 
+AUROC : 0.92 
+
+dataset :svhn , split: 3 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 0.535 , cls_loss: 0.226 , rot_loss: 0.309 | Acc: 91.800% (38860/42331) 
+Test result 
+Loss: 0.237 | Acc: 91.480% (13787/15071) 
+AUROC : 0.89 
+
+dataset :svhn , split: 3 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 0.534 , cls_loss: 0.224 , rot_loss: 0.310 | Acc: 91.876% (38892/42331) 
+Test result 
+Loss: 0.213 | Acc: 92.263% (13905/15071) 
+AUROC : 0.89 
+
+dataset :svhn , split: 3 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 0.531 , cls_loss: 0.222 , rot_loss: 0.309 | Acc: 92.093% (38984/42331) 
+Test result 
+Loss: 0.273 | Acc: 90.074% (13575/15071) 
+AUROC : 0.91 
+
+dataset :svhn , split: 3 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 0.531 , cls_loss: 0.222 , rot_loss: 0.309 | Acc: 91.874% (38891/42331) 
+Test result 
+Loss: 0.222 | Acc: 92.144% (13887/15071) 
+AUROC : 0.88 
+
+dataset :svhn , split: 3 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 0.531 , cls_loss: 0.222 , rot_loss: 0.309 | Acc: 91.857% (38884/42331) 
+Test result 
+Loss: 0.186 | Acc: 93.245% (14053/15071) 
+AUROC : 0.91 
+
+dataset :svhn , split: 3 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 0.528 , cls_loss: 0.220 , rot_loss: 0.308 | Acc: 92.037% (38960/42331) 
+Test result 
+Loss: 0.167 | Acc: 93.842% (14143/15071) 
+AUROC : 0.93 
+
+dataset :svhn , split: 4 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 0.593 , cls_loss: 0.278 , rot_loss: 0.315 | Acc: 90.236% (38198/42331) 
+Test result 
+Loss: 0.185 | Acc: 93.551% (14099/15071) 
+AUROC : 0.89 
+
+dataset :svhn , split: 4 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 0.531 , cls_loss: 0.222 , rot_loss: 0.309 | Acc: 91.956% (38926/42331) 
+Test result 
+Loss: 0.235 | Acc: 91.460% (13784/15071) 
+AUROC : 0.90 
+
+dataset :svhn , split: 4 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 0.527 , cls_loss: 0.219 , rot_loss: 0.308 | Acc: 92.107% (38990/42331) 
+Test result 
+Loss: 0.190 | Acc: 93.199% (14046/15071) 
+AUROC : 0.92 
+
+dataset :svhn , split: 4 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 0.528 , cls_loss: 0.220 , rot_loss: 0.308 | Acc: 92.029% (38957/42331) 
+Test result 
+Loss: 0.239 | Acc: 91.686% (13818/15071) 
+AUROC : 0.89 
+
+dataset :svhn , split: 4 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 0.526 , cls_loss: 0.220 , rot_loss: 0.307 | Acc: 92.039% (38961/42331) 
+Test result 
+Loss: 0.202 | Acc: 92.960% (14010/15071) 
+AUROC : 0.93 
+
+dataset :svhn , split: 4 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 0.527 , cls_loss: 0.222 , rot_loss: 0.305 | Acc: 92.018% (38952/42331) 
+Test result 
+Loss: 0.277 | Acc: 90.545% (13646/15071) 
+AUROC : 0.89 
+
+dataset :svhn , split: 4 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 0.523 , cls_loss: 0.217 , rot_loss: 0.306 | Acc: 92.233% (39043/42331) 
+Test result 
+Loss: 0.236 | Acc: 91.626% (13809/15071) 
+AUROC : 0.90 
+
+dataset :svhn , split: 4 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 0.527 , cls_loss: 0.220 , rot_loss: 0.307 | Acc: 92.044% (38963/42331) 
+Test result 
+Loss: 0.229 | Acc: 91.885% (13848/15071) 
+AUROC : 0.87 
+
+dataset :svhn , split: 4 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 0.523 , cls_loss: 0.217 , rot_loss: 0.306 | Acc: 92.166% (39015/42331) 
+Test result 
+Loss: 0.175 | Acc: 93.829% (14141/15071) 
+AUROC : 0.91 
+
+dataset :svhn , split: 4 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 0.522 , cls_loss: 0.216 , rot_loss: 0.305 | Acc: 92.289% (39067/42331) 
+Test result 
+Loss: 0.272 | Acc: 90.313% (13611/15071) 
+AUROC : 0.90 
+
+AUROC list : [0.91055209 0.90223209 0.9287254  0.93043343 0.89837544]
+split mean AUROC :0.91
+

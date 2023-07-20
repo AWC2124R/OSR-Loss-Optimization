@@ -1,0 +1,507 @@
+ce_coef :0.60
+cen_coef :0.00
+trp_coef :0.40
+
+dataset :svhn , split: 0 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: nan | Acc: 32.718% (15412/47106) 
+Test result 
+Loss: 0.798 | Acc: 50.645% (8675/17129) 
+AUROC : 0.47 
+
+dataset :svhn , split: 0 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: nan | Acc: 73.462% (34605/47106) 
+Test result 
+Loss: 0.506 | Acc: 70.243% (12032/17129) 
+AUROC : 0.62 
+
+dataset :svhn , split: 0 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: nan | Acc: 88.866% (41861/47106) 
+Test result 
+Loss: 0.189 | Acc: 89.637% (15354/17129) 
+AUROC : 0.83 
+
+dataset :svhn , split: 0 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: nan | Acc: 90.398% (42583/47106) 
+Test result 
+Loss: 0.343 | Acc: 80.880% (13854/17129) 
+AUROC : 0.80 
+
+dataset :svhn , split: 0 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: nan | Acc: 90.819% (42781/47106) 
+Test result 
+Loss: 0.187 | Acc: 89.451% (15322/17129) 
+AUROC : 0.85 
+
+dataset :svhn , split: 0 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: nan | Acc: 91.392% (43051/47106) 
+Test result 
+Loss: 0.166 | Acc: 90.677% (15532/17129) 
+AUROC : 0.88 
+
+dataset :svhn , split: 0 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: nan | Acc: 91.496% (43100/47106) 
+Test result 
+Loss: 0.156 | Acc: 91.622% (15694/17129) 
+AUROC : 0.87 
+
+dataset :svhn , split: 0 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: nan | Acc: 91.646% (43171/47106) 
+Test result 
+Loss: 0.232 | Acc: 87.238% (14943/17129) 
+AUROC : 0.80 
+
+dataset :svhn , split: 0 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: nan | Acc: 91.472% (43089/47106) 
+Test result 
+Loss: 0.244 | Acc: 86.683% (14848/17129) 
+AUROC : 0.83 
+
+dataset :svhn , split: 0 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: nan | Acc: 91.589% (43144/47106) 
+Test result 
+Loss: 0.231 | Acc: 86.859% (14878/17129) 
+AUROC : 0.85 
+
+dataset :svhn , split: 1 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 0.249 | Acc: 85.889% (35802/41684) 
+Test result 
+Loss: 0.463 | Acc: 73.040% (10807/14796) 
+AUROC : 0.77 
+
+dataset :svhn , split: 1 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 0.186 | Acc: 89.679% (37382/41684) 
+Test result 
+Loss: 0.159 | Acc: 91.538% (13544/14796) 
+AUROC : 0.91 
+
+dataset :svhn , split: 1 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 0.179 | Acc: 90.102% (37558/41684) 
+Test result 
+Loss: 0.238 | Acc: 86.625% (12817/14796) 
+AUROC : 0.85 
+
+dataset :svhn , split: 1 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 0.170 | Acc: 90.766% (37835/41684) 
+Test result 
+Loss: 0.167 | Acc: 91.315% (13511/14796) 
+AUROC : 0.88 
+
+dataset :svhn , split: 1 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 0.168 | Acc: 90.881% (37883/41684) 
+Test result 
+Loss: 0.273 | Acc: 84.259% (12467/14796) 
+AUROC : 0.73 
+
+dataset :svhn , split: 1 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 0.165 | Acc: 91.069% (37961/41684) 
+Test result 
+Loss: 0.184 | Acc: 90.308% (13362/14796) 
+AUROC : 0.84 
+
+dataset :svhn , split: 1 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 0.162 | Acc: 91.253% (38038/41684) 
+Test result 
+Loss: 0.187 | Acc: 89.639% (13263/14796) 
+AUROC : 0.88 
+
+dataset :svhn , split: 1 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 0.161 | Acc: 91.179% (38007/41684) 
+Test result 
+Loss: 0.155 | Acc: 91.680% (13565/14796) 
+AUROC : 0.90 
+
+dataset :svhn , split: 1 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 0.160 | Acc: 91.304% (38059/41684) 
+Test result 
+Loss: 0.178 | Acc: 90.524% (13394/14796) 
+AUROC : 0.88 
+
+dataset :svhn , split: 1 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 0.158 | Acc: 91.388% (38094/41684) 
+Test result 
+Loss: 0.146 | Acc: 92.174% (13638/14796) 
+AUROC : 0.91 
+
+dataset :svhn , split: 2 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 0.207 | Acc: 88.999% (42010/47203) 
+Test result 
+Loss: 0.118 | Acc: 93.846% (15996/17045) 
+AUROC : 0.83 
+
+dataset :svhn , split: 2 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 0.157 | Acc: 91.744% (43306/47203) 
+Test result 
+Loss: 0.159 | Acc: 91.751% (15639/17045) 
+AUROC : 0.82 
+
+dataset :svhn , split: 2 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 0.149 | Acc: 92.246% (43543/47203) 
+Test result 
+Loss: 0.158 | Acc: 91.675% (15626/17045) 
+AUROC : 0.78 
+
+dataset :svhn , split: 2 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 0.150 | Acc: 92.128% (43487/47203) 
+Test result 
+Loss: 0.237 | Acc: 87.146% (14854/17045) 
+AUROC : 0.81 
+
+dataset :svhn , split: 2 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 0.143 | Acc: 92.496% (43661/47203) 
+Test result 
+Loss: 0.135 | Acc: 93.148% (15877/17045) 
+AUROC : 0.90 
+
+dataset :svhn , split: 2 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 0.143 | Acc: 92.520% (43672/47203) 
+Test result 
+Loss: 0.171 | Acc: 90.965% (15505/17045) 
+AUROC : 0.89 
+
+dataset :svhn , split: 2 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 0.143 | Acc: 92.448% (43638/47203) 
+Test result 
+Loss: 0.129 | Acc: 93.200% (15886/17045) 
+AUROC : 0.89 
+
+dataset :svhn , split: 2 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 0.144 | Acc: 92.488% (43657/47203) 
+Test result 
+Loss: 0.199 | Acc: 88.771% (15131/17045) 
+AUROC : 0.78 
+
+dataset :svhn , split: 2 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 0.142 | Acc: 92.604% (43712/47203) 
+Test result 
+Loss: 0.151 | Acc: 92.027% (15686/17045) 
+AUROC : 0.90 
+
+dataset :svhn , split: 2 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 0.137 | Acc: 92.878% (43841/47203) 
+Test result 
+Loss: 0.120 | Acc: 93.899% (16005/17045) 
+AUROC : 0.91 
+
+dataset :svhn , split: 3 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 0.235 | Acc: 86.797% (36742/42331) 
+Test result 
+Loss: 0.265 | Acc: 84.998% (12810/15071) 
+AUROC : 0.79 
+
+dataset :svhn , split: 3 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 0.176 | Acc: 90.428% (38279/42331) 
+Test result 
+Loss: 0.184 | Acc: 89.576% (13500/15071) 
+AUROC : 0.86 
+
+dataset :svhn , split: 3 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 0.170 | Acc: 90.657% (38376/42331) 
+Test result 
+Loss: 0.239 | Acc: 86.729% (13071/15071) 
+AUROC : 0.80 
+
+dataset :svhn , split: 3 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 0.167 | Acc: 90.808% (38440/42331) 
+Test result 
+Loss: 0.396 | Acc: 78.913% (11893/15071) 
+AUROC : 0.82 
+
+dataset :svhn , split: 3 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 0.168 | Acc: 90.813% (38442/42331) 
+Test result 
+Loss: 0.214 | Acc: 88.229% (13297/15071) 
+AUROC : 0.84 
+
+dataset :svhn , split: 3 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 0.162 | Acc: 91.207% (38609/42331) 
+Test result 
+Loss: 0.164 | Acc: 90.930% (13704/15071) 
+AUROC : 0.82 
+
+dataset :svhn , split: 3 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 0.162 | Acc: 91.160% (38589/42331) 
+Test result 
+Loss: 0.197 | Acc: 89.224% (13447/15071) 
+AUROC : 0.80 
+
+dataset :svhn , split: 3 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 0.163 | Acc: 91.037% (38537/42331) 
+Test result 
+Loss: 0.255 | Acc: 85.767% (12926/15071) 
+AUROC : 0.80 
+
+dataset :svhn , split: 3 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 0.156 | Acc: 91.496% (38731/42331) 
+Test result 
+Loss: 0.156 | Acc: 91.865% (13845/15071) 
+AUROC : 0.85 
+
+dataset :svhn , split: 3 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 0.156 | Acc: 91.451% (38712/42331) 
+Test result 
+Loss: 0.175 | Acc: 90.505% (13640/15071) 
+AUROC : 0.84 
+
+dataset :svhn , split: 4 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 0.187 | Acc: 90.104% (38142/42331) 
+Test result 
+Loss: 0.136 | Acc: 92.681% (13968/15071) 
+AUROC : 0.91 
+
+dataset :svhn , split: 4 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 0.157 | Acc: 91.439% (38707/42331) 
+Test result 
+Loss: 0.217 | Acc: 88.448% (13330/15071) 
+AUROC : 0.86 
+
+dataset :svhn , split: 4 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 0.159 | Acc: 91.380% (38682/42331) 
+Test result 
+Loss: 0.144 | Acc: 92.230% (13900/15071) 
+AUROC : 0.90 
+
+dataset :svhn , split: 4 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 0.159 | Acc: 91.460% (38716/42331) 
+Test result 
+Loss: 0.266 | Acc: 85.230% (12845/15071) 
+AUROC : 0.84 
+
+dataset :svhn , split: 4 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 0.157 | Acc: 91.474% (38722/42331) 
+Test result 
+Loss: 0.213 | Acc: 87.964% (13257/15071) 
+AUROC : 0.84 
+
+dataset :svhn , split: 4 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 0.157 | Acc: 91.600% (38775/42331) 
+Test result 
+Loss: 0.225 | Acc: 86.710% (13068/15071) 
+AUROC : 0.86 
+
+dataset :svhn , split: 4 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 0.156 | Acc: 91.465% (38718/42331) 
+Test result 
+Loss: 0.182 | Acc: 90.007% (13565/15071) 
+AUROC : 0.84 
+
+dataset :svhn , split: 4 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 0.158 | Acc: 91.437% (38706/42331) 
+Test result 
+Loss: 0.162 | Acc: 91.215% (13747/15071) 
+AUROC : 0.89 
+
+dataset :svhn , split: 4 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 0.155 | Acc: 91.552% (38755/42331) 
+Test result 
+Loss: 0.279 | Acc: 84.128% (12679/15071) 
+AUROC : 0.74 
+
+dataset :svhn , split: 4 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 0.156 | Acc: 91.616% (38782/42331) 
+Test result 
+Loss: 0.137 | Acc: 92.423% (13929/15071) 
+AUROC : 0.89 
+
+AUROC list : [0.84626693 0.9133625  0.91381138 0.84490678 0.8929718 ]
+split mean AUROC :0.88
+

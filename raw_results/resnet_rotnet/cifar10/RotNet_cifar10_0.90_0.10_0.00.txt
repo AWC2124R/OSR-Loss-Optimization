@@ -1,0 +1,507 @@
+ce_coef :0.90
+cen_coef :0.10
+trp_coef :0.00
+
+dataset :cifar10 , split: 0 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 48.354 , cls_loss: 47.726 , rot_loss: 0.628 | Acc: 36.787% (11036/30000) 
+Test result 
+Loss: 44.896 | Acc: 43.700% (2622/6000) 
+AUROC : 0.52 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 44.080 , cls_loss: 43.460 , rot_loss: 0.620 | Acc: 52.020% (15606/30000) 
+Test result 
+Loss: 44.127 | Acc: 47.100% (2826/6000) 
+AUROC : 0.62 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 41.314 , cls_loss: 40.688 , rot_loss: 0.626 | Acc: 61.450% (18435/30000) 
+Test result 
+Loss: 39.747 | Acc: 69.750% (4185/6000) 
+AUROC : 0.68 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 39.488 , cls_loss: 38.866 , rot_loss: 0.623 | Acc: 67.530% (20259/30000) 
+Test result 
+Loss: 41.202 | Acc: 65.100% (3906/6000) 
+AUROC : 0.63 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 38.179 , cls_loss: 37.563 , rot_loss: 0.616 | Acc: 71.837% (21551/30000) 
+Test result 
+Loss: 37.339 | Acc: 76.367% (4582/6000) 
+AUROC : 0.61 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 37.139 , cls_loss: 36.530 , rot_loss: 0.609 | Acc: 75.437% (22631/30000) 
+Test result 
+Loss: 37.344 | Acc: 76.483% (4589/6000) 
+AUROC : 0.71 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 36.169 , cls_loss: 35.563 , rot_loss: 0.606 | Acc: 78.483% (23545/30000) 
+Test result 
+Loss: 35.265 | Acc: 78.733% (4724/6000) 
+AUROC : 0.65 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 35.512 , cls_loss: 34.917 , rot_loss: 0.595 | Acc: 80.597% (24179/30000) 
+Test result 
+Loss: 34.657 | Acc: 83.267% (4996/6000) 
+AUROC : 0.71 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 35.010 , cls_loss: 34.424 , rot_loss: 0.586 | Acc: 81.640% (24492/30000) 
+Test result 
+Loss: 35.887 | Acc: 81.450% (4887/6000) 
+AUROC : 0.71 
+
+dataset :cifar10 , split: 0 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 34.690 , cls_loss: 34.109 , rot_loss: 0.580 | Acc: 82.687% (24806/30000) 
+Test result 
+Loss: 34.242 | Acc: 80.450% (4827/6000) 
+AUROC : 0.72 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 35.496 , cls_loss: 34.949 , rot_loss: 0.547 | Acc: 81.617% (24485/30000) 
+Test result 
+Loss: 34.670 | Acc: 80.283% (4817/6000) 
+AUROC : 0.71 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 33.662 , cls_loss: 33.145 , rot_loss: 0.517 | Acc: 86.213% (25864/30000) 
+Test result 
+Loss: 32.936 | Acc: 88.017% (5281/6000) 
+AUROC : 0.47 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 33.375 , cls_loss: 32.869 , rot_loss: 0.506 | Acc: 87.127% (26138/30000) 
+Test result 
+Loss: 34.115 | Acc: 83.600% (5016/6000) 
+AUROC : 0.46 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 33.156 , cls_loss: 32.659 , rot_loss: 0.497 | Acc: 87.213% (26164/30000) 
+Test result 
+Loss: 32.786 | Acc: 88.600% (5316/6000) 
+AUROC : 0.57 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 32.880 , cls_loss: 32.391 , rot_loss: 0.489 | Acc: 88.343% (26503/30000) 
+Test result 
+Loss: 32.842 | Acc: 86.350% (5181/6000) 
+AUROC : 0.72 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 32.805 , cls_loss: 32.311 , rot_loss: 0.494 | Acc: 88.557% (26567/30000) 
+Test result 
+Loss: 33.459 | Acc: 86.500% (5190/6000) 
+AUROC : 0.73 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 32.786 , cls_loss: 32.298 , rot_loss: 0.488 | Acc: 88.370% (26511/30000) 
+Test result 
+Loss: 34.925 | Acc: 81.133% (4868/6000) 
+AUROC : 0.65 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 32.680 , cls_loss: 32.193 , rot_loss: 0.487 | Acc: 88.610% (26583/30000) 
+Test result 
+Loss: 32.116 | Acc: 91.133% (5468/6000) 
+AUROC : 0.73 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 32.530 , cls_loss: 32.053 , rot_loss: 0.477 | Acc: 89.247% (26774/30000) 
+Test result 
+Loss: 33.630 | Acc: 84.917% (5095/6000) 
+AUROC : 0.61 
+
+dataset :cifar10 , split: 1 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 32.544 , cls_loss: 32.066 , rot_loss: 0.478 | Acc: 89.330% (26799/30000) 
+Test result 
+Loss: 32.403 | Acc: 89.950% (5397/6000) 
+AUROC : 0.65 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 38.633 , cls_loss: 38.078 , rot_loss: 0.555 | Acc: 71.437% (21431/30000) 
+Test result 
+Loss: 36.315 | Acc: 76.783% (4607/6000) 
+AUROC : 0.63 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 36.451 , cls_loss: 35.904 , rot_loss: 0.546 | Acc: 78.100% (23430/30000) 
+Test result 
+Loss: 37.693 | Acc: 75.683% (4541/6000) 
+AUROC : 0.61 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 36.082 , cls_loss: 35.541 , rot_loss: 0.541 | Acc: 78.773% (23632/30000) 
+Test result 
+Loss: 36.556 | Acc: 77.117% (4627/6000) 
+AUROC : 0.62 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 35.819 , cls_loss: 35.283 , rot_loss: 0.536 | Acc: 79.957% (23987/30000) 
+Test result 
+Loss: 36.937 | Acc: 74.433% (4466/6000) 
+AUROC : 0.70 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 35.542 , cls_loss: 35.017 , rot_loss: 0.524 | Acc: 80.493% (24148/30000) 
+Test result 
+Loss: 40.737 | Acc: 69.450% (4167/6000) 
+AUROC : 0.74 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 35.400 , cls_loss: 34.876 , rot_loss: 0.524 | Acc: 81.167% (24350/30000) 
+Test result 
+Loss: 34.216 | Acc: 82.917% (4975/6000) 
+AUROC : 0.76 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 35.250 , cls_loss: 34.731 , rot_loss: 0.519 | Acc: 81.687% (24506/30000) 
+Test result 
+Loss: 38.405 | Acc: 74.683% (4481/6000) 
+AUROC : 0.61 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 35.072 , cls_loss: 34.559 , rot_loss: 0.513 | Acc: 81.977% (24593/30000) 
+Test result 
+Loss: 35.683 | Acc: 81.267% (4876/6000) 
+AUROC : 0.60 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 35.069 , cls_loss: 34.553 , rot_loss: 0.515 | Acc: 82.290% (24687/30000) 
+Test result 
+Loss: 34.656 | Acc: 81.550% (4893/6000) 
+AUROC : 0.73 
+
+dataset :cifar10 , split: 2 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 34.997 , cls_loss: 34.482 , rot_loss: 0.515 | Acc: 82.583% (24775/30000) 
+Test result 
+Loss: 37.378 | Acc: 74.200% (4452/6000) 
+AUROC : 0.56 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 34.980 , cls_loss: 34.469 , rot_loss: 0.511 | Acc: 84.853% (25456/30000) 
+Test result 
+Loss: 35.985 | Acc: 83.650% (5019/6000) 
+AUROC : 0.47 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 33.604 , cls_loss: 33.094 , rot_loss: 0.510 | Acc: 87.883% (26365/30000) 
+Test result 
+Loss: 33.777 | Acc: 84.883% (5093/6000) 
+AUROC : 0.66 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 33.559 , cls_loss: 33.057 , rot_loss: 0.501 | Acc: 88.113% (26434/30000) 
+Test result 
+Loss: 32.805 | Acc: 88.550% (5313/6000) 
+AUROC : 0.69 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 33.360 , cls_loss: 32.856 , rot_loss: 0.504 | Acc: 88.193% (26458/30000) 
+Test result 
+Loss: 32.315 | Acc: 90.350% (5421/6000) 
+AUROC : 0.74 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 33.284 , cls_loss: 32.791 , rot_loss: 0.493 | Acc: 88.680% (26604/30000) 
+Test result 
+Loss: 33.410 | Acc: 88.267% (5296/6000) 
+AUROC : 0.61 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 33.123 , cls_loss: 32.627 , rot_loss: 0.496 | Acc: 88.943% (26683/30000) 
+Test result 
+Loss: 32.325 | Acc: 91.183% (5471/6000) 
+AUROC : 0.66 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 33.064 , cls_loss: 32.571 , rot_loss: 0.492 | Acc: 89.257% (26777/30000) 
+Test result 
+Loss: 32.857 | Acc: 89.233% (5354/6000) 
+AUROC : 0.73 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 33.077 , cls_loss: 32.585 , rot_loss: 0.492 | Acc: 88.940% (26682/30000) 
+Test result 
+Loss: 36.474 | Acc: 82.400% (4944/6000) 
+AUROC : 0.68 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 33.062 , cls_loss: 32.576 , rot_loss: 0.487 | Acc: 88.860% (26658/30000) 
+Test result 
+Loss: 32.593 | Acc: 89.867% (5392/6000) 
+AUROC : 0.71 
+
+dataset :cifar10 , split: 3 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 32.923 , cls_loss: 32.433 , rot_loss: 0.490 | Acc: 89.303% (26791/30000) 
+Test result 
+Loss: 32.486 | Acc: 89.250% (5355/6000) 
+AUROC : 0.77 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 0 
+Current lr : 0.1 
+Train result 
+Loss: 33.617 , cls_loss: 33.127 , rot_loss: 0.490 | Acc: 88.720% (26616/30000) 
+Test result 
+Loss: 32.886 | Acc: 87.717% (5263/6000) 
+AUROC : 0.61 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 1 
+Current lr : 0.1 
+Train result 
+Loss: 33.044 , cls_loss: 32.562 , rot_loss: 0.482 | Acc: 89.480% (26844/30000) 
+Test result 
+Loss: 32.828 | Acc: 87.783% (5267/6000) 
+AUROC : 0.61 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 2 
+Current lr : 0.1 
+Train result 
+Loss: 32.991 , cls_loss: 32.501 , rot_loss: 0.491 | Acc: 89.467% (26840/30000) 
+Test result 
+Loss: 34.688 | Acc: 82.333% (4940/6000) 
+AUROC : 0.67 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 3 
+Current lr : 0.1 
+Train result 
+Loss: 33.106 , cls_loss: 32.618 , rot_loss: 0.488 | Acc: 89.313% (26794/30000) 
+Test result 
+Loss: 33.244 | Acc: 88.050% (5283/6000) 
+AUROC : 0.67 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 4 
+Current lr : 0.1 
+Train result 
+Loss: 32.960 , cls_loss: 32.474 , rot_loss: 0.486 | Acc: 89.450% (26835/30000) 
+Test result 
+Loss: 32.751 | Acc: 89.167% (5350/6000) 
+AUROC : 0.66 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 5 
+Current lr : 0.1 
+Train result 
+Loss: 32.966 , cls_loss: 32.482 , rot_loss: 0.484 | Acc: 89.513% (26854/30000) 
+Test result 
+Loss: 32.093 | Acc: 90.883% (5453/6000) 
+AUROC : 0.63 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 6 
+Current lr : 0.1 
+Train result 
+Loss: 32.999 , cls_loss: 32.512 , rot_loss: 0.487 | Acc: 89.730% (26919/30000) 
+Test result 
+Loss: 33.182 | Acc: 88.183% (5291/6000) 
+AUROC : 0.63 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 7 
+Current lr : 0.1 
+Train result 
+Loss: 32.924 , cls_loss: 32.440 , rot_loss: 0.484 | Acc: 89.533% (26860/30000) 
+Test result 
+Loss: 32.817 | Acc: 89.833% (5390/6000) 
+AUROC : 0.67 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 8 
+Current lr : 0.1 
+Train result 
+Loss: 32.972 , cls_loss: 32.487 , rot_loss: 0.484 | Acc: 89.383% (26815/30000) 
+Test result 
+Loss: 33.287 | Acc: 88.500% (5310/6000) 
+AUROC : 0.64 
+
+dataset :cifar10 , split: 4 
+
+Epoch: 9 
+Current lr : 0.1 
+Train result 
+Loss: 32.758 , cls_loss: 32.272 , rot_loss: 0.487 | Acc: 90.123% (27037/30000) 
+Test result 
+Loss: 32.172 | Acc: 91.400% (5484/6000) 
+AUROC : 0.79 
+
+AUROC list : [0.72334304 0.65426498 0.56298313 0.76656915 0.78581723]
+split mean AUROC :0.70
+
